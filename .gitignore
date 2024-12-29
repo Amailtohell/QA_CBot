@@ -1,0 +1,12 @@
+# Ignore the large vector store file
+vector_index.pkl
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment variable file
+.env
+
+.idea/
+# Ignore log files
+*.log
